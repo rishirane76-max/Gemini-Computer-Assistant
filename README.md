@@ -212,6 +212,10 @@ On first run macOS will ask for permissions. Allow all of these in **System Sett
 
 PRs welcome. Open an issue first for major changes.
 
+## HELP
+
+If you need help with installation please ask me in the discord server : https://discord.gg/3HfV5cErYX
+
 ---
 
 ## License
