@@ -2,7 +2,7 @@
 
 A native floating AI assistant for macOS, Windows, and Linux — powered by Google Gemini. Works like "Hey Google" on Android but lives on your desktop as a minimal floating bar.
 
-![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-blue)
+![macOS](https://img.shields.io/badge/macOS-26%2B-blue?logo=apple&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
