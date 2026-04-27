@@ -1,6 +1,8 @@
 # Gemini Assistant 🤖
 
-A native floating AI assistant for macOS, Windows, and Linux — powered by Google Gemini. Works like "Hey Google" on Android but lives on your desktop as a minimal floating bar.
+# WINDOWS AND LINUX WILL COME LATER.
+
+A native floating AI assistant for macOS — powered by Google Gemini. Works like "Hey Google" on Android but lives on your desktop as a minimal floating bar.
 
 ![macOS](https://img.shields.io/badge/macOS-26%2B-blue?logo=apple&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
