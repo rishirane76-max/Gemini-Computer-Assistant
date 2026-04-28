@@ -38,8 +38,8 @@ A native floating AI assistant for macOS — powered by Google Gemini. Works lik
 
 ### 1. Clone the repo
 
-    git clone https://github.com/rishirane76-max/GeminiAssistant.git
-    cd GeminiAssistant
+    git@github.com:rishirane76-max/Gemini-Computer-Assistant.git
+    cd Gemini-Computer-Assistant
 
 ### 2. Install dependencies
 
